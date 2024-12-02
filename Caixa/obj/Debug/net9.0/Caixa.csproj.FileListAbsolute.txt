@@ -1,0 +1,15 @@
+C:\dev\ExerciciosComCSharp\Caixa\bin\Debug\net9.0\Caixa.exe
+C:\dev\ExerciciosComCSharp\Caixa\bin\Debug\net9.0\Caixa.deps.json
+C:\dev\ExerciciosComCSharp\Caixa\bin\Debug\net9.0\Caixa.runtimeconfig.json
+C:\dev\ExerciciosComCSharp\Caixa\bin\Debug\net9.0\Caixa.dll
+C:\dev\ExerciciosComCSharp\Caixa\bin\Debug\net9.0\Caixa.pdb
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\Caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\Caixa.AssemblyInfoInputs.cache
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\Caixa.AssemblyInfo.cs
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\Caixa.csproj.CoreCompileInputs.cache
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\Caixa.sourcelink.json
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\Caixa.dll
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\refint\Caixa.dll
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\Caixa.pdb
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\Caixa.genruntimeconfig.cache
+C:\dev\ExerciciosComCSharp\Caixa\obj\Debug\net9.0\ref\Caixa.dll

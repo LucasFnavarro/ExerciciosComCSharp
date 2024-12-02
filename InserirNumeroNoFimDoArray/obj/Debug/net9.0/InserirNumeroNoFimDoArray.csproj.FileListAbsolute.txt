@@ -1,0 +1,14 @@
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\bin\Debug\net9.0\InserirNumeroNoFimDoArray.exe
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\bin\Debug\net9.0\InserirNumeroNoFimDoArray.deps.json
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\bin\Debug\net9.0\InserirNumeroNoFimDoArray.runtimeconfig.json
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\bin\Debug\net9.0\InserirNumeroNoFimDoArray.dll
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\bin\Debug\net9.0\InserirNumeroNoFimDoArray.pdb
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\InserirNumeroNoFimDoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\InserirNumeroNoFimDoArray.AssemblyInfoInputs.cache
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\InserirNumeroNoFimDoArray.AssemblyInfo.cs
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\InserirNumeroNoFimDoArray.csproj.CoreCompileInputs.cache
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\InserirNumeroNoFimDoArray.dll
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\refint\InserirNumeroNoFimDoArray.dll
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\InserirNumeroNoFimDoArray.pdb
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\InserirNumeroNoFimDoArray.genruntimeconfig.cache
+C:\dev\ExerciciosComCSharp\InserirNumeroNoFimDoArray\obj\Debug\net9.0\ref\InserirNumeroNoFimDoArray.dll
